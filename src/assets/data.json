@@ -1,0 +1,112 @@
+ [
+    {
+      "name": "Electronics",
+      "subcategories": [
+        {
+          "name": "Mobile Phones",
+          "subcategories": [
+            {
+              "name": "Smartphones"
+            },
+            {[
+                {
+                  "name": "Electronics",
+                  "subcategories": [
+                    {
+                      "name": "Mobile Phones",
+                      "subcategories": [
+                        {
+                          "name": "Smartphones"
+                        },
+                        {
+                          "name": "Basic Phones"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Laptops",
+                      "subcategories": [
+                        {
+                          "name": "Gaming Laptops"
+                        },
+                        {
+                          "name": "Ultrabooks"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Clothing",
+                  "subcategories": [
+                    {
+                      "name": "Men's Clothing",
+                      "subcategories": [
+                        {
+                          "name": "Shirts"
+                        },
+                        {
+                          "name": "Pants"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Women's Clothing",
+                      "subcategories": [
+                        {
+                          "name": "Dresses"
+                        },
+                        {
+                          "name": "Skirts"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+              
+            }
+          ]
+        },
+        {
+          "name": "Laptops",
+          "subcategories": [
+            {
+              "name": "Gaming Laptops"
+            },
+            {
+              "name": "Ultrabooks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Clothing",
+      "subcategories": [
+        {
+          "name": "Men's Clothing",
+          "subcategories": [
+            {
+              "name": "Shirts"
+            },
+            {
+              "name": "Pants"
+            }
+          ]
+        },
+        {
+          "name": "Women's Clothing",
+          "subcategories": [
+            {
+              "name": "Dresses"
+            },
+            {
+              "name": "Skirts"
+            }
+          ]
+        }
+      ]
+    }
+  ];
+  
